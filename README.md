@@ -4,4 +4,4 @@ Continuing from the refresher [here](https://github.com/daretodave/react-refresh
 
 > This is general css/styling in react with frameworks such as tailwind and styled-components along with vanilla practice with and without component scoping
 
-This project is automatically deployed [here](#), take a peak.
+This project is automatically deployed [here](https://react-css-orcin.vercel.app/), take a peak.
